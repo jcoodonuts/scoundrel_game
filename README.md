@@ -3,7 +3,7 @@
 **Scoundrel** is a premium, web-based implementation of the solo dungeon-crawler card game designed by **Zach Gage and Kurt Bieg**.
 
 > [!IMPORTANT]
-> This is a fan-made web implementation for educational and personal use. We do not own the rights to the "Scoundrel" game itself; all credit for the original design and rules belongs to Gage and Bieg.
+> This is a fan-made web implementation for educational and personal use. I do not own the rights to the "Scoundrel" game itself; all credit for the original design and rules belongs to Gage and Bieg.
 
 Built with React and Vite, it features a high-end "Dark Dungeon" aesthetic and precise gameplay mechanics.
 
